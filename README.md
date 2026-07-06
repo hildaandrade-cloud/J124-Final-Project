@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Crime data can help communities better understand patterns in public safety, but it must be interpreted carefully. This project analyzes publicly available Alameda County crime report data to examine which offenses appear most frequently and which cities account for the largest number of reports. The goal is to identify patterns while recognizing the limitations of the dataset.
+Crime data is essential in order for the community to gain a better understanding of patterns in public safety. However, it must be deconstructed carefully with context. In this project, I analyzed the Alameda County Crime Report dataset in order to examine which offenses were most common and which cities recorded the highest number of crime reports.
 
 [Alameda County Sheriff's Office crime reports covering the period July 2022 to present](https://data.acgov.org/datasets/53a54eb59d5f42038e80098384ba5156_2/explore?location=37.693191%2C-121.924887%2C10)
 
