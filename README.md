@@ -10,9 +10,9 @@ Crime data is essential in order for the community to gain a better understandin
 
 ## About the Dataset
 
-This project uses the Alameda County Crime Reports dataset. The data was collected by the Alameda County Sheriff's Office and made available through the Alameda County Open Data Portal.
+This project uses the Alameda County Crime Reports dataset whose data was collected by the Alameda County Sheriff's Office and made available through the Alameda County Open Data Portal.
 
-Because the dataset comes from a government agency, it is generally considered reliable for documenting reported incidents. However, it only includes crimes that were reported to law enforcement and entered into the system. It cannot measure crimes that went unreported or explain why crimes occurred.
+Since the dataset comes from a government agency it is typically considered a reliable source for documenting reported incidents. The only issue is that only the crime reported through law enforcements are the ones that are recorded. So it doesn't measure crimes that went unreported or does it explain why crimes occurred.
 
 ---
 
