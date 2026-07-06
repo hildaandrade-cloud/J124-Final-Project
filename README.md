@@ -32,7 +32,8 @@ The first pivot table covers the most common offense descriptions in the dataset
 
 ![alt text](chart1.jpg)
 
-The second picot table is a city analysis which shows that San Leandro, Oakland, Hayward, and Castro Valley are the cities with the largest number of crime reports in this dataset. The influencing factors can be the population size, policing practices, and reporting activity.
+The second pivot table is a city analysis which shows that San Leandro, Oakland, Hayward, and Castro Valley are the cities with the largest number of crime reports in this dataset. The influencing factors can be the population size, policing practices, and reporting activity.
+
 ---
 
 ## Methods
