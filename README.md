@@ -12,24 +12,27 @@ Crime data is essential in order for the community to gain a better understandin
 
 This project uses the Alameda County Crime Reports dataset whose data was collected by the Alameda County Sheriff's Office and made available through the Alameda County Open Data Portal.
 
-Since the dataset comes from a government agency it is typically considered a reliable source for documenting reported incidents. The only issue is that only the crime reported through law enforcements are the ones that are recorded. So it doesn't measure crimes that went unreported or does it explain why crimes occurred.
+Since the dataset comes from a government agency it is typically considered a reliable source for documenting reported incidents. The only issue is that only the crimes reported through law enforcement are the ones that are recorded. So it doesn't measure crimes that went unreported or does it explain why crimes occurred. 
+
+The dataset also has some minor spelling errors and incomplete information.
 
 ---
 
 ## Data Analysis
 
+In order to analyze the data I imported the file into Google Sheets and then reviewed it for blank spots, incorrect spelling, and duplicate headings. Once fixed I created two pivot tables. 
+
 ### Finding 1
 
 ![alt text](chart2.jpg)
 
-The most common offense descriptions in the dataset include several warrant-related offenses, drug-related violations, and weapon offenses. These categories appeared more frequently than many other reported offenses.
+The first pivot table covers the most common offense descriptions in the dataset. This included several warrant-related offenses, drug-related violations, and weapon offenses. These were the categories that appeared most frequently in the reported offenses.
 
 ### Finding 2
 
 ![alt text](chart1.jpg)
 
-The city analysis shows that San Leandro, Oakland, Hayward, and Castro Valley account for the largest number of crime reports in this dataset. Population size, policing practices, and reporting activity may all influence these totals.
-
+The second picot table is a city analysis which shows that San Leandro, Oakland, Hayward, and Castro Valley are the cities with the largest number of crime reports in this dataset. The influencing factors can be the population size, policing practices, and reporting activity.
 ---
 
 ## Methods
