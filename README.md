@@ -5,12 +5,11 @@
 
 Crime data is essential in order for the community to gain a better understanding of patterns in public safety. However, it must be deconstructed carefully with context. In this project, I analyzed the Alameda County Crime Report dataset in order to examine which offenses were most common and which cities recorded the highest number of crime reports.
 
-[Alameda County Sheriff's Office crime reports covering the period July 2022 to present](https://data.acgov.org/datasets/53a54eb59d5f42038e80098384ba5156_2/explore?location=37.693191%2C-121.924887%2C10)
-
-
 ## About the Dataset
 
 This project uses the Alameda County Crime Reports dataset whose data was collected by the Alameda County Sheriff's Office and made available through the Alameda County Open Data Portal.
+
+[Alameda County Sheriff's Office crime reports covering the period July 2022 to present](https://data.acgov.org/datasets/53a54eb59d5f42038e80098384ba5156_2/explore?location=37.693191%2C-121.924887%2C10)
 
 Since the dataset comes from a government agency it is typically considered a reliable source for documenting reported incidents. The only issue is that only the crimes reported through law enforcement are the ones that are recorded. So it doesn't measure crimes that went unreported or does it explain why crimes occurred. 
 
@@ -20,7 +19,13 @@ The dataset also has some minor spelling errors and incomplete information.
 
 ## Data Analysis
 
-In order to analyze the data I imported the file into Google Sheets and then reviewed it for blank spots, incorrect spelling, and duplicate headings. Once fixed I created two pivot tables. 
+In order to analyze the data I imported the file into Google Sheets and then reviewed it for blank spots, incorrect spelling, and duplicate headings. Once fixed I created two pivot tables.
+
+Google Sheets:
+
+[Alameda County Crime Reports July 2022-Present](https://docs.google.com/spreadsheets/d/14pShk2vxSFuxMdSt-BlYk4zjxVabhrQptHXfskGDG2w/edit?gid=1490871859#gid=1490871859)
+
+I used the first pivot table to count the frequency of each crime description. The second pivot table was used to count the number of crimes reported by the city. Using these two pivot tables helps summarize the records into patterns that are easier to understand and to visualize.
 
 ### Finding 1
 
@@ -36,13 +41,6 @@ The second pivot table is a city analysis which shows that San Leandro, Oakland,
 
 ---
 
-## Methods
-
-I imported the CSV file into Google Sheets and reviewed the data for duplicate headers and missing rows. I created pivot tables to count offense descriptions and cities. I corrected obvious spelling inconsistencies in the City column before creating bar charts to visualize the results.
-
-Google Sheets:
-[Alameda County Crime Reports July 2022-Present](https://docs.google.com/spreadsheets/d/14pShk2vxSFuxMdSt-BlYk4zjxVabhrQptHXfskGDG2w/edit?gid=1490871859#gid=1490871859)
----
 
 ## Limitations
 
