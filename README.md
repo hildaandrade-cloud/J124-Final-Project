@@ -20,13 +20,13 @@ Because the dataset comes from a government agency, it is generally considered r
 
 ### Finding 1
 
-![alt text](image.jpg)
+![alt text](chart1.jpg)
 
 The most common offense descriptions in the dataset include several warrant-related offenses, drug-related violations, and weapon offenses. These categories appeared more frequently than many other reported offenses.
 
 ### Finding 2
 
-![alt text](image.png)
+![alt text](chart2.jpg)
 
 The city analysis shows that San Leandro, Oakland, Hayward, and Castro Valley account for the largest number of crime reports in this dataset. Population size, policing practices, and reporting activity may all influence these totals.
 
@@ -37,8 +37,7 @@ The city analysis shows that San Leandro, Oakland, Hayward, and Castro Valley ac
 I imported the CSV file into Google Sheets and reviewed the data for duplicate headers and missing rows. I created pivot tables to count offense descriptions and cities. I corrected obvious spelling inconsistencies in the City column before creating bar charts to visualize the results.
 
 Google Sheets:
-(Paste your Google Sheets link here)
-
+[Alameda County Crime Reports July 2022-Present](https://docs.google.com/spreadsheets/d/14pShk2vxSFuxMdSt-BlYk4zjxVabhrQptHXfskGDG2w/edit?gid=1490871859#gid=1490871859)
 ---
 
 ## Limitations
