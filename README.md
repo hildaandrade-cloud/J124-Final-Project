@@ -31,15 +31,19 @@ Google Sheets:
 
 I used the first pivot table to count the frequency of each crime description. The second pivot table was used to count the number of crimes reported by the city. Using these two pivot tables helps summarize the records into patterns that are easier to understand and to visualize.
 
-### Finding 1
+### Chart 1: Most Common Offense Descriptions
 
 ![alt text](chart2.jpg)
 
+**Source:** Alameda County Open Data Portal, *Alameda County Crime Reports Dataset*. Analysis performed in Google Sheets.
+
 The first pivot table covers the most common offense descriptions in the dataset. This included several warrant-related offenses, drug-related violations, and weapon offenses. These were the categories that appeared most frequently in the reported offenses.
 
-### Finding 2
+### Chart 2: Crime Reports by City
 
 ![alt text](chart1.jpg)
+
+**Source:** Alameda County Open Data Portal, *Alameda County Crime Reports Dataset*. Analysis performed in Google Sheets.
 
 The second pivot table is a city analysis which shows that San Leandro, Oakland, Hayward, and Castro Valley are the cities with the largest number of crime reports in this dataset. The influencing factors can be the population size, policing practices, and reporting activity.
 
