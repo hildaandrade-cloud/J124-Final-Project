@@ -1,11 +1,11 @@
 # J124-Final-Project
-# What Alameda County Crime Reports Reveal About Common Offenses and Where They Occur
+# The Alameda County Crime Reports Reveal What the Common Offenses are and Where They Occur
 
 ## Introduction
 
 Crime data can help communities better understand patterns in public safety, but it must be interpreted carefully. This project analyzes publicly available Alameda County crime report data to examine which offenses appear most frequently and which cities account for the largest number of reports. The goal is to identify patterns while recognizing the limitations of the dataset.
 
-[Alameda County Sheriff's Office crime reports covering the period 6/28/2022 to present.](https://data.acgov.org/datasets/53a54eb59d5f42038e80098384ba5156_2/explore?location=37.693191%2C-121.924887%2C10)
+[Alameda County Sheriff's Office crime reports covering the period July 2022 to present](https://data.acgov.org/datasets/53a54eb59d5f42038e80098384ba5156_2/explore?location=37.693191%2C-121.924887%2C10)
 
 
 ## About the Dataset
