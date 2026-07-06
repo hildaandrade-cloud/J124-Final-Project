@@ -20,13 +20,13 @@ Because the dataset comes from a government agency, it is generally considered r
 
 ### Finding 1
 
-![alt text](chart1.jpg)
+![alt text](chart2.jpg)
 
 The most common offense descriptions in the dataset include several warrant-related offenses, drug-related violations, and weapon offenses. These categories appeared more frequently than many other reported offenses.
 
 ### Finding 2
 
-![alt text](chart2.jpg)
+![alt text](chart1.jpg)
 
 The city analysis shows that San Leandro, Oakland, Hayward, and Castro Valley account for the largest number of crime reports in this dataset. Population size, policing practices, and reporting activity may all influence these totals.
 
